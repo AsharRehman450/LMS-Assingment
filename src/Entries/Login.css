@@ -1,0 +1,10 @@
+.loginstyling {
+    background-image: url("/public/Login.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* https://www.pixground.com/windows-11-blue-background-4k-wallpaper/?download-img=4k */
+
+   
+}
